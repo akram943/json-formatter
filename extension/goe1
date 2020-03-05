@@ -1,0 +1,16 @@
+{
+ [
+   {
+"_id":20,
+"name":"isimm",
+"coordinates": [{
+               "Latitude":35.60743155,
+               "Longitude":10.788170404405232
+               }],
+"category":"etablisement educatif",
+"image":"https://i2.wp.com/chroniques.tn/wp-content/uploads/2016/10/Monastir.jpg?fit=900%2C929&ssl=1",
+"site_web": "http://www.isimm.rnu.tn/",
+"Commune":"monastir"
+}
+  ]
+}
